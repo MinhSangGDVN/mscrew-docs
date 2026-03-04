@@ -7,6 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Mscrew Docs',
+	        logo: {src: './src/assets/logo.png',},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/MinhSangGDVN/mscrew-docs'}, { icon: 'discord', label: 'Discord', href: '#'} ],
 			sidebar: [
 				{
