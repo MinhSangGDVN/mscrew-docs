@@ -6,6 +6,8 @@ sidebar:
   order: 1
 ---
 
+import { Aside } from '@astrojs/starlight/components';
+
 # 👋 Chào mừng bạn đến với Mscrew
 
 **Mscrew** (tên đầy đủ là **MingSengCrew**) là một studio công nghệ trẻ, tập trung vào việc phát triển các Bot Discord và ứng dụng hữu ích nhằm mang lại giá trị tốt nhất cho cộng đồng người dùng Việt Nam.
@@ -38,8 +40,9 @@ Mscrew hiện đang vận hành với 3 thành viên nhiệt huyết, mỗi ngư
 * **Minh Sang & Hoàng Anh:** Chịu trách nhiệm chính về phần kỹ thuật, phát triển mã nguồn (Dev code) và vận hành hệ thống cho các dự án.
 * **Trung Kiên:** Quản lý trực tiếp server Discord, xây dựng cộng đồng, tổ chức các cuộc thi, giải đấu và hỗ trợ người dùng.
 
-> [!TIP]
-> Bạn có thể xem Portfolio chi tiết của Minh Sang tại: [minhsanggd.mscrew.io.vn](https://minhsanggd.mscrew.io.vn)
+<Aside type="tip" title="Ghé thăm Portfolio">
+  Bạn có thể xem chi tiết các sản phẩm cá nhân của Minh Sang tại: [minhsanggd.mscrew.io.vn](https://minhsanggd.mscrew.io.vn)
+</Aside>
 
 ---
 
