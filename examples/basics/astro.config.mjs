@@ -7,6 +7,8 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Mscrew Docs',
+			defaultLocale: 'vi',
+            locales: {vi: {label: 'Tiếng Việt', lang: 'vi',},
 	        logo: {src: './src/assets/logo.png',},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/MinhSangGDVN/mscrew-docs'}, { icon: 'discord', label: 'Discord', href: '#'} ],
 			sidebar: [
