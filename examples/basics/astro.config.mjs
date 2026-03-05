@@ -11,6 +11,7 @@ export default defineConfig({
 	        logo: {src: './src/assets/logo.png',},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/MinhSangGDVN/mscrew-docs'}, { icon: 'discord', label: 'Discord', href: '#'} ],
 			lastUpdated: true,
+			pagination: true,
 			editLink: {baseUrl: 'https://github.com/MinhSangGDVN/mscrew-docs/edit/main/examples/basics/',},
 			sidebar: [
 				{
